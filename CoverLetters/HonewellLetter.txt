@@ -1,0 +1,15 @@
+Hello,
+
+ 
+
+My name is Ammar Kothari.  I am interested in the ROS Software Engineer position.  I have gained some development experience in ROS while at Rethink and especially during graduate school.  I am interested in applying my knowledge and learning more while working on robots that operate in the real world.
+
+ I am also very passionate about robotics in general.  I want to apply many of the motion planning and control algorithms like STOMP and adaptive control that I have tried in simulation on hardware with the guidance of experienced engineers.
+
+Although I lack industry experience in software engineering, my passion for "kinematic and dynamics of robotic manipulators, and trajectory generation and path planning" will allow me to contribute in meaningful ways from the beginning as I get up to speed in other areas.
+
+ 
+
+Thank you
+
+​
